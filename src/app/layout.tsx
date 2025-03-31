@@ -9,8 +9,8 @@ import { ThemeProvider } from '@/context/ThemeContext';
 const inter = interFonts({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'CertChain',
-  description: 'CertChain is a decentralized credentialing platform that allows institutions to issue and verify credentials on the blockchain.',
+  title: 'Crefy',
+  description: 'Crefy is a decentralized credentialing platform that allows institutions to issue and verify credentials on the blockchain.',
 }
 
 export default async function RootLayout({

@@ -12,7 +12,7 @@ export default function Home() {
     return (
         <div className="min-h-screen bg-slate-50">
             <Head>
-                <title>CertChain - Decentralized Identity & Credentials</title>
+                <title>Crefy - Decentralized Identity & Credentials</title>
                 <meta name="description" content="Secure decentralized identity system for students and institutions" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
@@ -25,7 +25,7 @@ export default function Home() {
                             <div className="flex-shrink-0">
                                 <span className="h-10 w-10 bg-blue-600 text-white flex items-center justify-center rounded-lg font-bold text-xl">CC</span>
                             </div>
-                            <div className="ml-3 text-blue-600 font-bold text-xl">CertChain</div>
+                            <div className="ml-3 text-blue-600 font-bold text-xl">Crefy</div>
                         </div>
 
                         {/* Desktop navigation */}
@@ -969,11 +969,11 @@ export default function Home() {
                         </div>
                         <div className="flex flex-wrap justify-center gap-8 md:gap-12 lg:gap-16 mt-8">
                             {[
-                                { name: "University of Nairobi", alt: "University of Nairobi logo", url: "https://educhain.io/wp-content/uploads/2021/05/logo_new-1.png" },
+                                 { name: "University of Nairobi", alt: "University of Nairobi logo", url: "https://educhain.io/wp-content/uploads/2021/05/logo_new-1.png" },
                                 { name: "Safaricom", alt: "Safaricom logo", url: "https://www.shofco.org/wp-content/uploads/2020/06/safaricom-foundation.png" },
                                 { name: "Zetech University", alt: "Kenya Commercial Bank logo", url: "https://journals.zetech.ac.ke/public/journals/2/pageHeaderLogoImage_en_US.png" },
                                 { name: "Strathmore University", alt: "Strathmore University logo", url: "https://giftshop.strathmore.edu/assets/img/logo/SU-Logo.png" },
-                                { name: "Equity Bank", alt: "Equity Bank logo", url: "https://cdn3d.iconscout.com/3d/premium/thumb/arbitrum-arb-coin-3d-icon-download-in-png-blend-fbx-gltf-file-formats--btc-cryptocurrency-pack-science-technology-icons-7138698.png?f=webp" },
+                                // { name: "Equity Bank", alt: "Equity Bank logo", url: "https://cdn3d.iconscout.com/3d/premium/thumb/arbitrum-arb-coin-3d-icon-download-in-png-blend-fbx-gltf-file-formats--btc-cryptocurrency-pack-science-technology-icons-7138698.png?f=webp" },
                             ].map((org, index) => (
                                 <div key={index} className="group h-12 flex items-center transition-all duration-300 hover:scale-110">
                                     <div className="rounded-lg p-2 flex items-center">
@@ -996,7 +996,7 @@ export default function Home() {
                                 <div className="h-10 w-10 bg-blue-600 text-white flex items-center justify-center rounded-lg font-bold text-xl">
                                     CC
                                 </div>
-                                <div className="ml-3 text-white font-bold text-xl">CertChain</div>
+                                <div className="ml-3 text-white font-bold text-xl">Crefy</div>
                             </div>
                             <p className="mt-4 text-sm">
                                 Secure, decentralized identity and credential management for students and institutions.
@@ -1035,7 +1035,7 @@ export default function Home() {
                     </div>
 
                     <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
-                        <p className="text-sm">© 2025 CertChain. All rights reserved.</p>
+                        <p className="text-sm">© 2025 Crefy. All rights reserved.</p>
                         <div className="mt-4 md:mt-0 flex space-x-6">
                             <a href="#" className="text-gray-400 hover:text-white">
                                 <span className="sr-only">Twitter</span>

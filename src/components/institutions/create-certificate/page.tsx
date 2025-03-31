@@ -205,7 +205,7 @@ export default function CreateCertificate() {
 
     // Network options
     const networks = [
-        { id: 'arbitrium', name: 'Arbitrium' },
+        { id: 'hedera', name: 'Hedera' },
         { id: 'eduChain', name: 'EDU Chain' },
         { id: 'ethereum', name: 'Ethereum' },
     ];

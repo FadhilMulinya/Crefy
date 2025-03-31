@@ -17,8 +17,8 @@ createAppKit({
   projectId,
   networks,
   metadata: {
-    name: 'CertChain',
-    description: 'CertChain is a decentralized credentialing platform that allows institutions to issue and verify credentials on the blockchain.',
+    name: 'Crefy',
+    description: 'Crefy is a decentralized credentialing platform that allows institutions to issue and verify credentials on the blockchain.',
     url: 'https://myapp.com',
     icons: ['https://myapp.com/favicon.ico']
   },
