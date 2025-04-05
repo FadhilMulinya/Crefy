@@ -34,6 +34,7 @@ export default function Home() {
                             <Link href="#students" className="text-gray-700 hover:text-blue-600 font-medium transition">For Students</Link>
                             <Link href="#institutions" className="text-gray-700 hover:text-blue-600 font-medium transition">For Institutions</Link>
                             <Link href="#about" className="text-gray-700 hover:text-blue-600 font-medium transition">About</Link>
+                            <Link href="/subdomain" className="text-gray-700 hover:text-blue-600 font-medium transition">Subdomain</Link>
                         </nav>
 
                         {/* CTA Buttons */}
